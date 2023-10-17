@@ -1,1 +1,1 @@
-# avatarTest
+Avatar Test Project
